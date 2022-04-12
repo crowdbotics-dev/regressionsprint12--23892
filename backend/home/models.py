@@ -10,3 +10,8 @@ class Name(models.Model):
 class Hometest(models.Model):
     "Generated Model"
     name = models.BigIntegerField()
+
+
+class Testing(models.Model):
+    "Generated Model"
+    name = models.BigIntegerField()
